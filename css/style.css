@@ -1,0 +1,8 @@
+body{
+  height: 3000px; 
+/* 
+  Padding-top, funcione para que o container-fluid não jogue tudo no topo maximo
+  assim ele vai cair e para o usuario ver o conteudo, no caso o padding e o tamano do menu
+*/
+  padding-top: 75px;
+}
