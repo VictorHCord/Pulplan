@@ -6,3 +6,12 @@ body{
 */
   padding-top: 75px;
 }
+/*Codigo feito para que quando o menu mobile descer, o conteudo desça junto */
+@media (max-width: 767px) {
+  body {
+    padding-top: 0px;
+  }
+  .fixed-top {
+    position: relative;
+  }
+}
