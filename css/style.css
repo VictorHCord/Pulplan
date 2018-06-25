@@ -1,12 +1,12 @@
 body{
-  height: 3000px; 
 /* 
   Padding-top, funcione para que o container-fluid não jogue tudo no topo maximo
   assim ele vai cair e para o usuario ver o conteudo, no caso o padding e o tamano do menu
 */
   padding-top: 75px;
 }
-/*Codigo feito para que quando o menu mobile descer, o conteudo desça junto */
+/*Codigo feito para que quando o menu mobile descer, o conteudo desça junto 
+tambem foi utilizado para que no modo mobile o menu não fique em cima do conteudo*/
 @media (max-width: 767px) {
   body {
     padding-top: 0px;
@@ -14,4 +14,18 @@ body{
   .fixed-top {
     position: relative;
   }
+}
+
+
+#img-quote{
+  background: url('../img/dog-flo.jpg') center center;
+  background-size: cover;
+}
+
+/*Utilizando o responsivo para a frase que está dentro do blockquote, fara a imagem diminuir */
+@media (max-width: 767px){
+  #img-quote .display-4{
+    font-size: 2.5rem;
+  }
+  
 }
