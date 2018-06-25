@@ -14,6 +14,8 @@
 
 - Blockquote foi manipulado no CSS e também no proprio css foi manipulado o responsivo para que não ficasse muito grande
 
+- Foi implementadoa função "Collapse" do bootstrap para informar referente as perguntas frequentes dos clientes
+
 [front]
 
 Foi implementado por:
