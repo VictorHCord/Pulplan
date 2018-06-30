@@ -16,6 +16,9 @@
 
 - Foi implementadoa função "Collapse" do bootstrap para informar referente as perguntas frequentes dos clientes
 
+- Foi implementado o footer da pagina e o final do rodapé
+
+
 [front]
 
 Foi implementado por:
