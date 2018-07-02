@@ -22,10 +22,14 @@
 
 - Na pagina da galeria também pode comprar seu ingresso para eventos 
 
+- Foi criada a pagina de Planos 
+
+- Foi adicionado um codigo no css para as listas
+
 [front]
 
 Foi implementado por:
 
 - Victor cordeiro
 
-# Inpirado no projeto da ORIGAMID
+# Inspirado no projeto da ORIGAMID

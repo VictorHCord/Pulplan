@@ -17,6 +17,7 @@ tambem foi utilizado para que no modo mobile o menu não fique em cima do conteu
 }
 
 
+
 #img-quote{
   background: url('../img/dog-flo.jpg') center center;
   background-size: cover;
@@ -27,5 +28,16 @@ tambem foi utilizado para que no modo mobile o menu não fique em cima do conteu
   #img-quote .display-4{
     font-size: 2.5rem;
   }
+  
+}
+
+/*Vai selecionar o ultimo "LI" da lista*/
+.lista-plano li + li{
+    border-top: 1px solid rgba(0,0,0.2);
+  
+}
+
+.lista-plano li{
+  padding: 1rem;
   
 }
