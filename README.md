@@ -26,10 +26,16 @@
 
 - Foi adicionado um codigo no css para as listas
 
+- Foi criada a pagina contato 
+
+- Foi criada a pagina inscriação 
+
+- Foi criado um pequeno codigo no CSS
+
 [front]
 
 Foi implementado por:
 
 - Victor cordeiro
 
-# Inspirado no projeto da ORIGAMID
+# PROJETO DA ORIGAMID
