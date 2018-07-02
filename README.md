@@ -18,9 +18,14 @@
 
 - Foi implementado o footer da pagina e o final do rodapé
 
+- Foi criada a pagina "Galeria" para a foto dos cachorros.
+
+- Na pagina da galeria também pode comprar seu ingresso para eventos 
 
 [front]
 
 Foi implementado por:
 
 - Victor cordeiro
+
+# Inpirado no projeto da ORIGAMID
